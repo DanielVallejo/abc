@@ -18,5 +18,8 @@ public class Des1 {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showConfirmDialog(null, "HOLA");
+        int a=5,b=3,c;
+        c=a+b;
+        System.out.println(c);
     }
 }
