@@ -35,6 +35,7 @@ public class Des1 {
         System.out.println(c);
     }
     
+    
     public static void multi(){
         int a,b,c;
          System.out.print ("Ingrese a:");
@@ -42,6 +43,16 @@ public class Des1 {
          System.out.print ("Ingrese b:");
          b=Integer.valueOf(tecla.nextLine());
         c=a*b;
+        System.out.println(c);
+        System.out.println(c);
+    }
+    public static void division(){
+        int a,b,c;
+         System.out.print ("Ingrese a:");
+         a=Integer.valueOf(tecla.nextLine());
+         System.out.print ("Ingrese b:");
+         b=Integer.valueOf(tecla.nextLine());
+        c=a/b;
         System.out.println(c);
         System.out.println(c);
     }
@@ -55,4 +66,5 @@ public class Des1 {
         System.out.println("iza gil");
         System.out.println("peke");
     }
+    
 }
