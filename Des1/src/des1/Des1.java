@@ -43,6 +43,7 @@ public class Des1 {
          b=Integer.valueOf(tecla.nextLine());
         c=a*b;
         System.out.println(c);
+        System.out.println(c);
     }
     public static void main(String[] args) {
         // TODO code application logic here
