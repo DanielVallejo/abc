@@ -51,5 +51,6 @@ public class Des1 {
         int a=5,b=3,c;
         c=a+b;
         System.out.println(c);
+        System.out.println("tas pollo vallejo");
     }
 }
