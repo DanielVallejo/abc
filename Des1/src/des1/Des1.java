@@ -34,6 +34,16 @@ public class Des1 {
         c=a-b;
         System.out.println(c);
     }
+    
+    public static void multi(){
+        int a,b,c;
+         System.out.print ("Ingrese a:");
+         a=Integer.valueOf(tecla.nextLine());
+         System.out.print ("Ingrese b:");
+         b=Integer.valueOf(tecla.nextLine());
+        c=a*b;
+        System.out.println(c);
+    }
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showConfirmDialog(null, "HOLA");
