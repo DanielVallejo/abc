@@ -4,10 +4,10 @@
  */
 package des1;
 
-/**
- *
- * @author BAS 18
- */
 public class Iza {
     
+
+    public Iza() {
+        System.out.println("iza");
+    }
 }
