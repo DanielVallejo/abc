@@ -62,7 +62,7 @@ public class Des1 {
         int a=5,b=3,c;
         c=a+b;
         System.out.println(c);
-        System.out.println("tas pollo vallejo");
+        System.out.println("vallejo");
         System.out.println("iza gil");
         System.out.println("peke");
     }
