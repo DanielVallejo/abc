@@ -11,6 +11,7 @@ package des1;
 public class Vallejo {
     public static void main(String[] args) {
         System.out.println("Vallejo");
+        System.out.println("Iza freddy");
     }
     
 }
