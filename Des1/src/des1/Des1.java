@@ -56,6 +56,7 @@ public class Des1 {
         c=a/b;
         System.out.println(c);
         System.out.println(c);
+        System.out.println("hola");
     }
     public static void main(String[] args) {
         // TODO code application logic here
