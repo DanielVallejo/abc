@@ -24,6 +24,7 @@ public class Des1 {
          b=Integer.valueOf(tecla.nextLine());
         c=a+b;
         System.out.println(c);
+        System.out.println("suma 12");
     }
     public static void resta(){
         int a,b,c;
