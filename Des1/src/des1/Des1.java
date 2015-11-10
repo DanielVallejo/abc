@@ -24,8 +24,9 @@ public class Des1 {
          b=Integer.valueOf(tecla.nextLine());
         c=a+b;
         System.out.println(c);
+        System.out.println("suma 12");
     }
-    public static void a(){
+    public static void resta(){
         int a,b,c;
          System.out.print ("Ingrese a:");
          a=Integer.valueOf(tecla.nextLine());
@@ -63,7 +64,6 @@ public class Des1 {
         c=a+b;
         System.out.println(c);
         System.out.println("vallejo");
-        System.out.println("iza gil");
         System.out.println("Dario Anrrango");
     }
     
